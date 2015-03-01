@@ -8,8 +8,9 @@ namespace Comp123_Assignment03_AnsonBaby
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            GiantPlanet
         }
     }
 }
